@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @prabal-github
 - 👀 I’m interested in **Web Development**
-- 🌱 I’m a full stack Web Developer (HTML, CSS, Javascript, React, Nodejs, express, MongoDB, ReactJs, Firebase)
+- 🌱 I’m a full stack Web Developer (HTML, CSS, Javascript, ReactJs, Nodejs, express, MongoDB, Firebase)
 <!-- - 💞️ I’m looking to collaborate on  -->
 - 📫 How to reach me 
      - Email ID:- prabal.chow09009.pc@gmail.com
