@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @prabal-github
+- 👋 Hi, I’m Prabal Chowdhury
 - 👀 I’m interested in **Web Development**
 - 🌱 I’m a full stack Web Developer (HTML, CSS, Javascript, ReactJs, Nodejs, express, MongoDB, Firebase)
 <!-- - 💞️ I’m looking to collaborate on  -->
