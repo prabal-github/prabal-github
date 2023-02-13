@@ -5,7 +5,7 @@
 - 📫 How to reach me 
      - Email ID:- prabal.chow09009.pc@gmail.com
      - Instagram:- https://www.instagram.com/prabal_chowdhury/
-     - Linkedin:- https://www.linkedin.com/in/prabal-chowdhury-0646531a5/
+     - Linkedin:- https://www.linkedin.com/in/itsprabal/
      - Github:- https://github.com/prabal-github/prabal-github/
       
 
